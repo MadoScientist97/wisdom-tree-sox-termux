@@ -1,7 +1,7 @@
 <h3 align="center"><img src="wisdom_tree/res/logo_512x512.png" alt="wisdom-tree"><br>Wisdom Tree</h3>
 
 
-Wisdom Tree is a tui concentration app. Inspired by the wisdom tree in Plants vs. Zombies which gives in-game tips when it grows, Wisdom Tree gives you real life tips when it grows. How can you grow the tree? by concentrating!
+Wisdom Tree is a tui concentration app. Inspired by the wisdom tree in Plants vs. Zombies which gives in-game tips when it grows, Wisdom Tree gives you real life tips when it grows. How can you grow the tree? by concentrating! This is a fork of the original Project to use the Sox backend instead of pyvlc so that it runs on vanilla termux!
 
 
 # Screenshots
